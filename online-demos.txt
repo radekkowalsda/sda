@@ -1,0 +1,18 @@
+----JIRA----
+link: https://sdatestjira.atlassian.net/jira/software/projects/ST/boards/1 
+Login: Whooksgivem1939@teleworm.us
+Hasło: SDApass123!
+
+---TestRail
+https://sdtatest.testrail.io/index.php?/dashboard 
+Login: Whooksgivem1939@teleworm.us
+Hasło: SDApass123!
+
+----BugZilla----
+link: https://bugs.freedesktop.org/describecomponents.cgi
+------------------
+
+----Mantis-----
+link: https://www.mantisbt.org/bugs/login_page.php
+login: testsda
+hasło: Pass123!
